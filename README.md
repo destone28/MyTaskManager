@@ -16,9 +16,12 @@ The code includes some lists and map population to easily
 allow the development of future functions such as listing,
 start and stop or other management of tasks.
 
+![MyTaskManager Simple GUI](images/screen.png)
 
 ## Requirements
 
 Qt version: 5.9.9
 
 System requirement: Windows XP, 7, 8.1, 10
+
+Compiled with: MinGW 32bit
